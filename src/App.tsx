@@ -192,7 +192,7 @@ function Hero() {
 
         <dl className="mt-16 grid grid-cols-1 border-t border-line sm:grid-cols-3">
           {[
-            ["Currently", "ThreatReaper · LockThreat"],
+            ["Currently", "LockThreat"],
             ["Studying", "BITS Pilani Dubai, ’26"],
             ["Published", "IEEE GLOBECOM 2026"],
           ].map(([k, v], i) => (

@@ -165,7 +165,7 @@ export const experience = [
   {
     period: "Jan 2026 — Now",
     role: "Junior AI Generalist",
-    org: "ThreatReaper (acquired by LockThreat)",
+    org: "LockThreat",
     focus: "AI Security & Security Testing",
     points: [
       "Engineered an adversarial security-testing pipeline evaluating 50,000+ benign and adversarial cases across 16 categories — generation, execution, classification and reporting, fully automated.",
